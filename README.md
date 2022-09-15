@@ -1,7 +1,7 @@
 # Mr-Matplotlib
-Exploration of nice usecases using Matplotlib amoung other libraries.
+Exploration of nice usecases using Matplotlib amoung other visualization libraries.
 
-
+![](pngs/use_cases_plots.png)
 
 ### Resources
 
